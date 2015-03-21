@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  hapening_on: 2015-03-21
+  team1: MyString
+  team2: MyString
+
+two:
+  hapening_on: 2015-03-21
+  team1: MyString
+  team2: MyString
